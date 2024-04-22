@@ -1,16 +1,23 @@
-### Hi there 👋
+# ¡Hola! 👋 Soy Reinaldo Oviedo Linares
 
-<!--
-**reinaldoviedo94/reinaldoviedo94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido/a a mi perfil de GitHub! Soy Desarrollador Full Stack.
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Soy un ingeniero informatico.
+- 🎓 Actualmente estoy trabajando en Innovasoft como Desarrollador.
+- 🌱 Estoy aprendiendo sobre IA.
+- 💬 Siempre estoy dispuesto a colaborar en proyectos interesantes.
+- 📫 Puedes contactarme en reinaldoviedo@gmail.com.
+
+## Estadísticas de GitHub
+
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=reinaldoviedo94&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## Contacto
+
+- LinkedIn: www.linkedin.com/in/reinaldoviedo94
+- Twitter: https://twitter.com/reinaldoviedo94
+
+¡Gracias por visitar mi perfil! 😊
+
