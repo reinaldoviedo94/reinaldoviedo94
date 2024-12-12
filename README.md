@@ -5,10 +5,8 @@
 ## Sobre mí
 
 - 💻 Soy un ingeniero informatico.
-- 🎓 Actualmente estoy trabajando en Innovasoft como Desarrollador.
 - 🌱 Estoy aprendiendo sobre IA.
 - 💬 Siempre estoy dispuesto a colaborar en proyectos interesantes.
-- 📫 Puedes contactarme en reinaldoviedo@gmail.com.
 
 ## Estadísticas de GitHub
 
