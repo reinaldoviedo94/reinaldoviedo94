@@ -32,5 +32,4 @@ Specialized in Python, scalable architectures, and AI systems using Retrieval-Au
 * 📧 Email: [reinaldoviedo94@gmail.com](mailto:reinaldoviedo94@gmail.com)
 * 🔗 GitHub: [https://github.com/reinaldoviedo94](https://github.com/reinaldoviedo94)
 * 🔗 LinkedIn: [https://www.linkedin.com/in/reinaldoviedo94](https://www.linkedin.com/in/reinaldoviedo94)
-* 🐦 Twitter: [https://twitter.com/reinaldoviedo94](https://twitter.com/reinaldoviedo94)
-* 
+* 🐦 Twitter: [https://twitter.com/reinaldoviedo94](https://twitter.com/reinaldoviedo94) 
