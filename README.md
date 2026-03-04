@@ -1,7 +1,3 @@
-Aquí tienes una versión ajustada en inglés para tu perfil de GitHub, integrando elementos relevantes de tu CV:
-
----
-
 # Hi 👋 I'm Reinaldo Oviedo Linares
 
 Welcome to my GitHub profile! I’m a **Full Stack Developer, AI Specialist, and DevOps Engineer** with a passion for building scalable and intelligent systems.
